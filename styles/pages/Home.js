@@ -19,7 +19,7 @@ export const Phone = styled(InstaclonnWrapper)`
  align-items: center;
  justify-content: center;
   img{
-    height: 350px;
+    height: 550px;
     
   }
 `
@@ -38,8 +38,8 @@ export const Group = styled.div`
  flex-direction: column;
  
  background-color: white;
- width: 240px;
- height: 320px;
+ width: 350px;
+ height: 520px;
  
  padding:0;
  padding-bottom: 50px;
@@ -51,7 +51,7 @@ export const Group = styled.div`
 `
 export const Group2 = styled(Group)`
 //margin-top: 20px;
-width: 240px;
+width: 350px;
 height: 70px;
 //padding-top:50px;
  
@@ -112,7 +112,7 @@ export const Download = styled.div`
     width: 2rem;
     background-size:cover;
     img{
-  width:120px;
+  width:170px;
   margin:5px;
 }
             
