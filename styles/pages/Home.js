@@ -65,7 +65,7 @@ height: 70px;
 `
 export const PhPerfil = styled.div`
 img{
-height:70px;
+height:120px;
 align-items: center;
 display:flex;
 justify-content:center;
@@ -75,22 +75,22 @@ margin-top:50px;
 `
 export const InstaclonnLogin = styled.a`
 background-color: #CEAB5D;
-padding: 8px;
+padding: 15px;
 margin-top:12px;
 border-radius: 4px;
-font-size: 13px;
+font-size: 17px;
 color: black;
 
 `
 export const RemoveAcc = styled.a`
 color: #0095f6;
-font-size: 12px;
+font-size: 16px;
 margin-top: 70px;
 
 `
 export const NotAccount = styled.p`
 color:black;
-font-size: 15px;
+font-size: 16px;
 margin:10px;
 
 `
